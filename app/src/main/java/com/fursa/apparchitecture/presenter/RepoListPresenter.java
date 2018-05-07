@@ -1,8 +1,9 @@
-package com.fursa.apparchitecture.ui.mvp.ui;
+package com.fursa.apparchitecture.presenter;
 
-import com.fursa.apparchitecture.ui.mvp.model.network.Model;
-import com.fursa.apparchitecture.ui.mvp.pojo.Repo;
-import com.fursa.apparchitecture.ui.mvp.model.network.ModelImpl;
+import com.fursa.apparchitecture.model.Model;
+import com.fursa.apparchitecture.model.data.Repo;
+import com.fursa.apparchitecture.model.ModelImpl;
+import com.fursa.apparchitecture.view.MyView;
 
 import java.util.List;
 

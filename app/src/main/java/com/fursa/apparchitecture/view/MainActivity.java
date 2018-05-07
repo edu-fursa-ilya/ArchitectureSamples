@@ -1,4 +1,4 @@
-package com.fursa.apparchitecture;
+package com.fursa.apparchitecture.view;
 
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -10,10 +10,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.fursa.apparchitecture.ui.mvp.pojo.Repo;
-import com.fursa.apparchitecture.ui.mvp.ui.MyView;
-import com.fursa.apparchitecture.ui.mvp.ui.RepoListPresenter;
-import com.fursa.apparchitecture.ui.mvp.ui.adapters.RecyclerViewAdapter;
+import com.fursa.apparchitecture.R;
+import com.fursa.apparchitecture.model.data.Repo;
+import com.fursa.apparchitecture.view.MyView;
+import com.fursa.apparchitecture.presenter.RepoListPresenter;
+import com.fursa.apparchitecture.view.adapters.RecyclerViewAdapter;
 
 import java.util.List;
 

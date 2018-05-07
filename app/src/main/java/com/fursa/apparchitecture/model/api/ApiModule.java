@@ -1,4 +1,4 @@
-package com.fursa.apparchitecture.ui.mvp.model.network;
+package com.fursa.apparchitecture.model.api;
 
 import com.squareup.okhttp.Interceptor;
 import com.squareup.okhttp.OkHttpClient;

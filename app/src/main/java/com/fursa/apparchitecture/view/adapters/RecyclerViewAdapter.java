@@ -1,4 +1,4 @@
-package com.fursa.apparchitecture.ui.mvp.ui.adapters;
+package com.fursa.apparchitecture.view.adapters;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.fursa.apparchitecture.R;
-import com.fursa.apparchitecture.ui.mvp.pojo.Repo;
+import com.fursa.apparchitecture.model.data.Repo;
 
 import java.util.ArrayList;
 import java.util.List;

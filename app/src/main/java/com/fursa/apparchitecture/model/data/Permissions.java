@@ -1,4 +1,4 @@
-package com.fursa.apparchitecture.ui.mvp.pojo;
+package com.fursa.apparchitecture.model.data;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

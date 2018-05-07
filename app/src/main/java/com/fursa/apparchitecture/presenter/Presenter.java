@@ -1,4 +1,4 @@
-package com.fursa.apparchitecture.ui.mvp.ui;
+package com.fursa.apparchitecture.presenter;
 
 public interface Presenter {
 

@@ -1,6 +1,6 @@
-package com.fursa.apparchitecture.ui.mvp.model.network;
+package com.fursa.apparchitecture.model.api;
 
-import com.fursa.apparchitecture.ui.mvp.pojo.Repo;
+import com.fursa.apparchitecture.model.data.Repo;
 
 import java.util.List;
 
